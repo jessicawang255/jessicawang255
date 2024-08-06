@@ -1,5 +1,6 @@
-## Hi there 👋
+![](https://i.pinimg.com/originals/45/77/85/4577853f98ae7f2320f091dc999c30ac.gif)
 
+Literally me
 <!--
 **jessicawang255/jessicawang255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
