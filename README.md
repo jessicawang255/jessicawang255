@@ -1,5 +1,5 @@
-## Literally me
-![](https://i.pinimg.com/originals/45/77/85/4577853f98ae7f2320f091dc999c30ac.gif)
+## Thanks for stopping by :)
+I'm Jessica! Feel free to check out some of the projects I've worked on.
 
 <!--
 **jessicawang255/jessicawang255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
